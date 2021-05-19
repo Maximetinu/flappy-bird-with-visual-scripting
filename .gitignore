@@ -8,6 +8,9 @@
 UserSettings/
 Assets/AssetStoreTools*
 
+Assets/Unity.VisualScripting.Generated.meta
+Assets/Unity.VisualScripting.Generated/
+
 # Visual Studio cache directory
 .vs/
 
