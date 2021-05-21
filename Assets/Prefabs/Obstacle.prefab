@@ -70,7 +70,7 @@ GameObject:
   - component: {fileID: 5616875699443530581}
   m_Layer: 0
   m_Name: Obstacle Up
-  m_TagString: Death
+  m_TagString: DeathTrigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -246,7 +246,7 @@ GameObject:
   - component: {fileID: 5706857345988804844}
   m_Layer: 0
   m_Name: Obstacle Down
-  m_TagString: Death
+  m_TagString: DeathTrigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
